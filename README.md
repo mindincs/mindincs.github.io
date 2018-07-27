@@ -1,0 +1,2 @@
+# mindincs.github.io
+website
